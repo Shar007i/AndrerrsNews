@@ -1,0 +1,3 @@
+Version Beta V2.6 ChangeLog:
+Добавлено:
+Меню
